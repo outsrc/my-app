@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -8,19 +8,19 @@
     "build": "next build",
     "export": "next export",
     "lint": "standard",
-    "format": "prettier-standard --format"
+    "format": "prettier --format"
   },
   "dependencies": {
-    "@auth0/auth0-spa-js": "^1.6.1",
-    "next": "^9.2.0",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "@auth0/auth0-spa-js": "^1.8.2",
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "@types/node": "^13.1.6",
-    "@types/react": "^16.9.17",
-    "prettier-standard": "^16.1.0",
-    "standard": "^14.3.1",
-    "typescript": "^3.7.4"
+    "@types/node": "^14.0.5",
+    "@types/react": "^16.9.35",
+    "prettier": "^2.0.5",
+    "standard": "^14.3.4",
+    "typescript": "^3.9.3"
   }
 }
