@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@auth0/auth0-spa-js": "^1.8.2",
-    "next": "^9.4.4",
+    "next": "^11.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
